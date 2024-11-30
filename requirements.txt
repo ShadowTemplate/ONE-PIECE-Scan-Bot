@@ -7,4 +7,4 @@ selenium==3.141.0
 
 # heroku-flask
 gunicorn==20.0.4
-flask==1.1.2
+flask==2.3.2
